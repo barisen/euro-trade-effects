@@ -13,7 +13,7 @@ setFixest_nthreads(1)
 # --------------------------------------------------------
 # 1. CONFIGURATION
 # --------------------------------------------------------
-DATA_PATH <- "/Users/barissen/Documents/Personal/HU_Master/Foreign_Trade_25/Final_Paper/Data/Gravity_csv_V202211/Gravity_V202211.csv"
+DATA_PATH <- # Add path of the Grvity Data here.
 FLOW_COL  <- "tradeflow_imf_o"
 SAMPLE       <- "EMU_plusROW"
 ROW_FILTER   <- "allROW"
