@@ -12,19 +12,20 @@ The project applies modern structural gravity modeling techniques (PPML with 3-w
 
 All rights to this work are reserved.
 
-Contents
-1 Introduction
-2 Literature Survey
-3 Data
-3.1 Descriptive Statistics
-4 Methodology and Identification Strategy
-5 Empirical Results
-5.1 The "Rose Effect" Revisited: A Replication for 1994-2003
-5.2 Divergence and Heterogeneity from 1980–2021
-6 Robustness Checks
-6.1 Placebo Test for Pre-Existing Trends
-6.2 Event Study and the Parallel Trends Assumption
-7 Discussion
-8 Limitations
-9 APPENDIX
-10 References
+## AGENDA
+
+1. Introduction  
+2. Literature Survey  
+3. Data  
+   3.1 Descriptive Statistics  
+4. Methodology and Identification Strategy  
+5. Empirical Results  
+   5.1 The "Rose Effect" Revisited: A Replication for 1994–2003  
+   5.2 Divergence and Heterogeneity from 1980–2021  
+6. Robustness Checks  
+   6.1 Placebo Test for Pre-Existing Trends  
+   6.2 Event Study and the Parallel Trends Assumption  
+7. Discussion  
+8. Limitations  
+9. Appendix  
+
